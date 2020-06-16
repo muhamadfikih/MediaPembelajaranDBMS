@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907086385480",
+    "firebase_url": "https://media-pembelajaran-dbms.firebaseio.com",
+    "project_id": "media-pembelajaran-dbms",
+    "storage_bucket": "media-pembelajaran-dbms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907086385480:android:14ddb4b86631b81fb4637d",
+        "android_client_info": {
+          "package_name": "com.example.mediapembelajarandbms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907086385480-29vsn06oto4qareucfierv988cpia5nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mediapembelajarandbms",
+            "certificate_hash": "de3bf17a7ca3f23f35c4619d707270ae41e4fcd3"
+          }
+        },
+        {
+          "client_id": "907086385480-8543gc1t3ud472muo2voibu1cd8jh7us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFU94_CXDvZMSkPyKn9Qn013clO_tLbGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907086385480-8543gc1t3ud472muo2voibu1cd8jh7us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Media Pembelajaran DBMS</string>
+    <string name="recent_news">Da Nang International Fireworks Festival 2017</string>
+    <string name="in_news">Da Nang International Fireworks Festival 2017Update: Dec 08, 2016 (TITC) - Da Nang International Fireworks Festival 2017 (DIFF 2017) with the theme “Shining Marble Mountains” will take place for two months, from 29 April to 24 June 2017 with the aim to Da Nang become a unique cultural festival tourism space. </string>
+    <string name="publish_date">2017-04-30 12:13:14</string>
+    <string name="pertemuan1">Sistem Manajemen Basis Data</string>
+    <string name="pertemuan2">Operasi dan Kegunaan Basis Data</string>
+    <string name="pertemuan3">Bahasa Basis Data</string>
+    <string name="pertemuan4">Konsep Normalisasi</string>
+    <string name="pertemuan5">Anomali Database dan Integrasi Data</string>
+    <string name="pertemuan6">Bentuk - Bentuk Normalisasi</string>
+    <string name="pertemuan7">Model Data dan Entity Relationship Model</string>
+    <string name="pertemuan8">SQL</string>
+    <string name="pertemuan9">Implementasi SQL</string>
+    <string name="pertemuan10">Implementasi SQL (SELECT)</string>
+    <string name="pertemuan11">Implementasi SQL (SELECT) 2</string>
+    <string name="pertemuan12">SQL = DCL</string>
+    <string name="latihan1">Pertemuan 1</string>
+    <string name="latihan2">Pertemuan 2</string>
+    <string name="latihan3">Pertemuan 3</string>
+    <string name="latihan4">Pertemuan 4</string>
+    <string name="latihan5">Pertemuan 5</string>
+    <string name="latihan6">Pertemuan 6</string>
+    <string name="latihan7">Pertemuan 9</string>
+    <string name="latihan8">Pertemuan 10</string>
+    <string name="latihan9">Pertemuan 11</string>
+    <string name="latihan10">Pertemuan 12</string>
+    <string name="latihan11">Pertemuan 13</string>
+    <string name="latihan12">Pertemuan 14</string>
+
+    <string name="link_pertemuan1">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/Pertemuan%201.mp4?alt=media&amp;token=057e4c04-44b5-49b1-ac9b-1196c0e9edcf</string>
+    <string name="link_pertemuan2">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/Pertemuan%202.mp4?alt=media&amp;token=6333e1cd-eac1-4bf7-a753-0e5fd3bab03c</string>
+    <string name="link_pertemuan3">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/Pertemuan%203.mp4?alt=media&amp;token=f8d4b979-dd8f-483b-b815-a85c3f66b66d</string>
+    <string name="link_pertemuan4">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/Pertemuan%204.mp4?alt=media&amp;token=bc53e0e0-2b4e-404e-8855-986b48de4390</string>
+    <string name="link_pertemuan5">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/Pertemuan%205.mp4?alt=media&amp;token=42d2fe2c-1541-4c3a-9d6f-c3c02ce0a4a8</string>
+    <string name="link_pertemuan6">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/Pertemuan%206.mp4?alt=media&amp;token=db9d1f9b-1d64-486e-a671-522354740fca</string>
+    <string name="link_pertemuan9">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/Video9.mp4?alt=media&amp;token=402e4315-05aa-4dcc-b0ee-bafd50a37a92</string>
+    <string name="link_pertemuan10">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/Video10.mp4?alt=media&amp;token=72cf9e15-fa19-4d95-ad6c-5e7d8f1bab50</string>
+    <string name="link_pertemuan11">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/video11.mp4?alt=media&amp;token=f1c7887d-eaf5-417b-a0fb-e3d6ec4976d4</string>
+    <string name="link_pertemuan12">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/video12.mp4?alt=media&amp;token=13342f3c-d626-4c4a-8b73-c79833353cfc</string>
+    <string name="link_pertemuan13">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/video13.mp4?alt=media&amp;token=a9a12d7f-91bc-4028-861c-f7b5d36558d4</string>
+    <string name="link_pertemuan14">https://firebasestorage.googleapis.com/v0/b/media-pembelajaran-dbms.appspot.com/o/video14.mp4?alt=media&amp;token=5a686c50-0fc7-46e8-9012-c25e5f6fce01</string>
+</resources>
+
